@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StudioAvi
+- 👀 I’m interested in a career in bioinformatics
+- 🌱 I’m currently learning the basics of python
+- 📫 How to reach me: studioavi.tech@gmail.com
